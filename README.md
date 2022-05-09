@@ -1,5 +1,5 @@
 
-[!calculadora](https://github.com/MichaelRodr/Calculadora/blob/main/src/assets/calculator.png)
+![calculadora](https://github.com/MichaelRodr/Calculadora/blob/main/src/assets/calculator.png)
 
 # Description
 
