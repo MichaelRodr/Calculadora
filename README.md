@@ -16,3 +16,5 @@ Practica de calculadora con Vite y react templete , components , conditional ren
 
 #Usa el comando git clone seguido del origen del repositorio, luego crea una nueva rama con el comando git branch [nueva rama].
 
+#Instale las dependencias npm install.
+
