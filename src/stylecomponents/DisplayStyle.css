@@ -1,0 +1,19 @@
+.display {
+	height: 70px;
+	width: auto;
+	border-radius: 15px;
+	justify-content: flex-end;
+	align-items: center;
+	font-size: 30px;
+	padding: 11px 12px 11px 11px;
+	color: #fff;
+	margin: 1 solid #888;
+	box-shadow: -1px 4px 1px 1px #fff;
+	display: flex;
+	align-items: flex-end;
+	justify-content: flex-end;
+	font-weight: bold;
+	box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.837);
+	margin-bottom: 20px;
+	margin-right: 13px;
+}

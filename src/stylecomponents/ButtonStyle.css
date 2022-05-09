@@ -1,0 +1,26 @@
+.button-container {
+	height: 73px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+	font-weight: bold;
+	flex: 1 1;
+	user-select: none; /* Esta propieda evita que el texto se pueda seleccionar*/
+	cursor: pointer;
+	color: rgb(135, 133, 133);
+}
+
+.operator {
+	color: #fff;
+}
+
+.button-container:hover {
+	color: #fff;
+	border-radius: 15px;
+	background-color: rgba(54, 50, 50, 0.775);
+}
+.operator:hover {
+	color: rgba(12, 248, 4, 0.77);
+}
